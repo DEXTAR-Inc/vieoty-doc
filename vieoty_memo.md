@@ -102,7 +102,9 @@ https://www.sisley-paris.com/ja-JP/%E3%83%98%E3%82%A2-%E3%83%AA%E3%83%81%E3%83%A
 > トップページを開いた際に
 > VIEOTY のロゴをフェードアウトして表現する→動画がはいるのでローディングをごまかすためにいれたい！
 > https://dextar.co.jp/ のロゴ表示に近いイメージ
+> 
 > ![Alt text](image-1.png)
+> 
 
 
 ■動画(どのタイミングで動画素材は確定すべきか、要相談)
@@ -157,8 +159,11 @@ Serif系のフォントをベースに、高級感と自然体の両立を図り
 
 
  
-■トップページ構成改善　アニメーションなどの参考サイト
+■トップページ構成改善
+
+アニメーションなどの参考サイト
 https://makanaibeauty.jp/
+
 ![Alt text](image-10.png)
 
 > memo:
@@ -201,6 +206,7 @@ https://makanaibeauty.jp/
 >     VIEOTY商品をもっと深く理解し、あなたの魅力を最大限に引き出すためのガイド。各商品の具体的な使い方や特徴はもちろん、あな> たにぴったりのお手入れ方法までご紹介します。VIEOTY商品を通して、ワンランク上の美しさを体感してください。
 > 
 > ![Alt text](image-3.png)
+> 
 > トップページに配置する際はコラム一覧は↑のイメージ
 > 
 > コラムページは一覧は
@@ -263,6 +269,7 @@ https://vieoty.com/?mode=cate&cbid=2932336&csid=0
 > できればコーディングベースでつくってほしい
 > 3ステップで流れをメインにつくる
 > ![Alt text](image-5.png)
+> 
 > キャッチコピー は↑の画像のようにしたい
 > テキストは仮でOK。後で Herai 様の方で入力いただく
 > アコーディオンの部分はオプション的な感じでOK。
@@ -274,7 +281,9 @@ https://vieoty.com/?mode=cate&cbid=2932336&csid=0
 
 > memo:
 > フッター部分は下記のようにしたい
+> 
 > ![Alt text](image-6.png)
+> 
     
 
 ・商品画像を参考サイト: [https://es.akyrise.jp/support/guidance.cgi](https://es.akyrise.jp/support/guidance.cgi) (左上メニュー内)のように加えるか要相談。
@@ -282,7 +291,9 @@ https://vieoty.com/?mode=cate&cbid=2932336&csid=0
 
 > memo:
 > ハンバーガーメニューは
+> 
 > ![Alt text](image-7.png)
+> 
 > のようにしたい。商品画像は仮でOK
 
    
