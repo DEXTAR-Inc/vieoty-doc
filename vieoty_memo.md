@@ -365,3 +365,12 @@ https://vieoty.com/?mode=cate&cbid=2932336&csid=0
  
 > memo:
 > 上記作業範囲で問題ありません
+
+
+> memo:
+> 下記画像の通り
+> media の上部に インスタ
+> media の下部に News
+> を追加する
+> ![Alt text](image-14.png)
+> ![Alt text](image-15.png)
