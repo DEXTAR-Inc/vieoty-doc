@@ -308,10 +308,11 @@ https://vieoty.com/?mode=cate&cbid=2932336&csid=0
     * 参考にしたサイト: [https://shop.lacasta.jp/shop/pages/about_lacasta.aspx#sec_1]
     
 
-    memo:
-        ブランドコンセプトページは
-        https://vieoty.com/?mode=f9
-        別途お見積り
+> memo:
+> ブランドコンセプトページは<br>
+> https://vieoty.com/?mode=f9 <br>
+> こちらも別ページになるので<br>
+> 別途お見積り
     
  
  
