@@ -371,6 +371,7 @@ https://vieoty.com/?mode=cate&cbid=2932336&csid=0
 > 下記画像の通り
 > media の上部に インスタ
 > media の下部に News
+> また LINE連携
 > を追加する
 > ![Alt text](image-14.png)
 > ![Alt text](image-15.png)
