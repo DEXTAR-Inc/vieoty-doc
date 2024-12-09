@@ -20,9 +20,9 @@
     - Herai様確認
 
 - フッター修正
-    ![Alt text](image.png)
-    ![Alt text](image-1.png)
-    項目編集
+    - ![Alt text](image.png)
+    - ![Alt text](image-1.png)
+    - 項目編集
 
 
 - ハンバーガーメニューは下記構成の通りにしたい
