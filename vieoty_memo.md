@@ -281,6 +281,7 @@ https://vieoty.com/?mode=cate&cbid=2932336&csid=0
 
     
 ■フッター・メニュー改善サンプルサイトhttps://www.saishunkan.co.jp/domo/
+![Alt text](image-16.png)
 
 > memo:
 > フッター部分は下記のようにしたい
@@ -375,3 +376,4 @@ https://vieoty.com/?mode=cate&cbid=2932336&csid=0
 > を追加する
 > ![Alt text](image-14.png)
 > ![Alt text](image-15.png)
+
