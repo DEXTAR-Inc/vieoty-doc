@@ -5,6 +5,8 @@
 - お問い合わせセクション
     - テキスト
     - コンテンツ内容は Herai様確認
+    - ![image](https://github.com/user-attachments/assets/a2207954-ca75-44c0-abe9-6d1743c42a64)
+
 
 - フッター修正
     - ![Alt text](image.png)
