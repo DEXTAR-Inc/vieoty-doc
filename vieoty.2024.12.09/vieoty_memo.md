@@ -4,7 +4,9 @@
 
 - お問い合わせセクション
     - テキスト
-    - Herai様確認
+    - コンテンツ内容は Herai様確認
+    - ![image](https://github.com/user-attachments/assets/a2207954-ca75-44c0-abe9-6d1743c42a64)
+
 
 - フッター修正
     - ![Alt text](image.png)
@@ -52,6 +54,8 @@
 - 固定メニューの改善
     - 動作の参考は
     - https://www.saishunkan.co.jp/domo/
+    - ![image](https://github.com/user-attachments/assets/210b97e8-11bc-4300-bd91-11208a75e1a9)
+    - 黄色不要、赤右端、青が赤の左
     - スクロールに合わせた表示のベンチマーク:https://www.saishunkan.co.jp/domo/(サイトのように透過?させない、背景?バックグラウンドカラーは白) 未
     - 上記二点をもとに弊社サイト右から
     - ・三 探す 
