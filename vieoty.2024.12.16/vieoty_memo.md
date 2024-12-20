@@ -80,6 +80,8 @@ Googleロゴを出したくない、アイキャッチ設定は？検索補助(1
     - 基本はトップにでてくるはず
 
 - フッター、ハンバーガーメニュー＋について修正画像追加
+    - ![image](https://github.com/user-attachments/assets/ab5772c3-1185-49ae-bba9-9f01afd12b35)
+
     - ![Alt text](image-1.png)
 
     - HERAIについて+
